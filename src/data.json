@@ -1,0 +1,420 @@
+[
+    {
+      "name": {
+        "username": "John Doe",
+        "image": "https://randomuser.me/api/portraits/men/1.jpg",
+        "handle": "@johndoe"
+      },
+      "status": "Working",
+      "role": "Software Engineer",
+      "email": "johndoe@company.com",
+      "teams": ["Development", "Backend", "API", "+2"]
+    },
+    {
+      "name": {
+        "username": "Jane Smith",
+        "image": "https://randomuser.me/api/portraits/women/2.jpg",
+        "handle": "@janesmith"
+      },
+      "status": "On Leave",
+      "role": "Product Manager",
+      "email": "janesmith@company.com",
+      "teams": ["Product", "Design", "Marketing", "+3"]
+    },
+    {
+      "name": {
+        "username": "Alice Johnson",
+        "image": "https://randomuser.me/api/portraits/women/3.jpg",
+        "handle": "@alicej"
+      },
+      "status": "Working",
+      "role": "UI/UX Designer",
+      "email": "alicej@company.com",
+      "teams": ["Design", "User Research", "Branding", "+1"]
+    },
+    {
+      "name": {
+        "username": "Michael Brown",
+        "image": "https://randomuser.me/api/portraits/men/4.jpg",
+        "handle": "@michaelb"
+      },
+      "status": "Remote",
+      "role": "DevOps Engineer",
+      "email": "michaelb@company.com",
+      "teams": ["Cloud", "Infrastructure", "Security", "+4"]
+    },
+    {
+      "name": {
+        "username": "Emily Wilson",
+        "image": "https://randomuser.me/api/portraits/women/5.jpg",
+        "handle": "@emilyw"
+      },
+      "status": "Working",
+      "role": "Frontend Developer",
+      "email": "emilyw@company.com",
+      "teams": ["Development", "React", "UI/UX", "+2"]
+    },
+    {
+      "name": {
+        "username": "Chris Evans",
+        "image": "https://randomuser.me/api/portraits/men/6.jpg",
+        "handle": "@chrisevans"
+      },
+      "status": "On Leave",
+      "role": "Backend Developer",
+      "email": "chrisevans@company.com",
+      "teams": ["Development", "API", "Database", "+3"]
+    },
+    {
+      "name": {
+        "username": "Sophia Martinez",
+        "image": "https://randomuser.me/api/portraits/women/7.jpg",
+        "handle": "@sophiam"
+      },
+      "status": "Working",
+      "role": "HR Manager",
+      "email": "sophiam@company.com",
+      "teams": ["HR", "Operations", "Recruitment", "+1"]
+    },
+    {
+      "name": {
+        "username": "Daniel Lee",
+        "image": "https://randomuser.me/api/portraits/men/8.jpg",
+        "handle": "@danlee"
+      },
+      "status": "Remote",
+      "role": "Tech Lead",
+      "email": "danlee@company.com",
+      "teams": ["Development", "Leadership", "Strategy", "+2"]
+    },
+    {
+      "name": {
+        "username": "Olivia Garcia",
+        "image": "https://randomuser.me/api/portraits/women/9.jpg",
+        "handle": "@oliviag"
+      },
+      "status": "Working",
+      "role": "Marketing Manager",
+      "email": "oliviag@company.com",
+      "teams": ["Marketing", "Content", "Growth", "+3"]
+    },
+    {
+      "name": {
+        "username": "David Wilson",
+        "image": "https://randomuser.me/api/portraits/men/10.jpg",
+        "handle": "@davidw"
+      },
+      "status": "On Leave",
+      "role": "Data Scientist",
+      "email": "davidw@company.com",
+      "teams": ["AI", "Machine Learning", "Data Analytics", "+2"]
+    },
+    {
+      "name": {
+        "username": "Eva Adams",
+        "image": "https://randomuser.me/api/portraits/women/11.jpg",
+        "handle": "@evaa"
+      },
+      "status": "Remote",
+      "role": "Business Analyst",
+      "email": "evaa@company.com",
+      "teams": ["Business", "Strategy", "Operations", "+3"]
+    },
+    {
+      "name": {
+        "username": "Robert King",
+        "image": "https://randomuser.me/api/portraits/men/12.jpg",
+        "handle": "@robertk"
+      },
+      "status": "Working",
+      "role": "QA Engineer",
+      "email": "robertk@company.com",
+      "teams": ["Quality Assurance", "Testing", "Automation", "+1"]
+    },
+    {
+      "name": {
+        "username": "Lily Thompson",
+        "image": "https://randomuser.me/api/portraits/women/13.jpg",
+        "handle": "@lilyt"
+      },
+      "status": "Working",
+      "role": "Finance Manager",
+      "email": "lilyt@company.com",
+      "teams": ["Finance", "Budgeting", "Accounts", "+2"]
+    },
+    {
+      "name": {
+        "username": "Matthew Scott",
+        "image": "https://randomuser.me/api/portraits/men/14.jpg",
+        "handle": "@mattscott"
+      },
+      "status": "Working",
+      "role": "Customer Support",
+      "email": "mattscott@company.com",
+      "teams": ["Support", "Helpdesk", "Client Relations", "+3"]
+    },
+    {
+      "name": {
+        "username": "Ava Cooper",
+        "image": "https://randomuser.me/api/portraits/women/15.jpg",
+        "handle": "@avac"
+      },
+      "status": "On Leave",
+      "role": "Legal Advisor",
+      "email": "avac@company.com",
+      "teams": ["Legal", "Compliance", "Regulatory Affairs", "+1"]
+    },
+    {
+      "name": {
+        "username": "Henry Lewis",
+        "image": "https://randomuser.me/api/portraits/men/16.jpg",
+        "handle": "@henryl"
+      },
+      "status": "Remote",
+      "role": "IT Manager",
+      "email": "henryl@company.com",
+      "teams": ["IT", "Infrastructure", "Networking", "+2"]
+    },
+    {
+      "name": {
+        "username": "Chloe White",
+        "image": "https://randomuser.me/api/portraits/women/17.jpg",
+        "handle": "@chloew"
+      },
+      "status": "Working",
+      "role": "Project Manager",
+      "email": "chloew@company.com",
+      "teams": ["Project Management", "Agile", "Scrum", "+3"]
+    },
+    {
+      "name": {
+        "username": "Nathan Hall",
+        "image": "https://randomuser.me/api/portraits/men/18.jpg",
+        "handle": "@nathanh"
+      },
+      "status": "Working",
+      "role": "Software Architect",
+      "email": "nathanh@company.com",
+      "teams": ["Development", "Architecture", "Scalability", "+2"]
+    },
+    {
+      "name": {
+        "username": "Hannah Moore",
+        "image": "https://randomuser.me/api/portraits/women/19.jpg",
+        "handle": "@hannahm"
+      },
+      "status": "Remote",
+      "role": "Security Analyst",
+      "email": "hannahm@company.com",
+      "teams": ["Security", "Risk Management", "Cybersecurity", "+1"]
+    },{
+        "name": {
+          "username": "Noah Carter",
+          "image": "https://randomuser.me/api/portraits/men/20.jpg",
+          "handle": "@noahc"
+        },
+        "status": "Working",
+        "role": "Full Stack Developer",
+        "email": "noahc@company.com",
+        "teams": ["Development", "MERN", "API", "+3"]
+      },
+      {
+        "name": {
+          "username": "Isabella Baker",
+          "image": "https://randomuser.me/api/portraits/women/21.jpg",
+          "handle": "@isabellab"
+        },
+        "status": "Remote",
+        "role": "Product Designer",
+        "email": "isabellab@company.com",
+        "teams": ["Design", "UI/UX", "Branding", "+1"]
+      },
+      {
+        "name": {
+          "username": "Liam Harris",
+          "image": "https://randomuser.me/api/portraits/men/22.jpg",
+          "handle": "@liamh"
+        },
+        "status": "On Leave",
+        "role": "Data Engineer",
+        "email": "liamh@company.com",
+        "teams": ["Data", "ETL", "Big Data", "+2"]
+      },
+      {
+        "name": {
+          "username": "Mia Turner",
+          "image": "https://randomuser.me/api/portraits/women/23.jpg",
+          "handle": "@miat"
+        },
+        "status": "Working",
+        "role": "Scrum Master",
+        "email": "miat@company.com",
+        "teams": ["Agile", "Scrum", "Project Management", "+3"]
+      },
+      {
+        "name": {
+          "username": "James Anderson",
+          "image": "https://randomuser.me/api/portraits/men/24.jpg",
+          "handle": "@jamesa"
+        },
+        "status": "Remote",
+        "role": "Cloud Engineer",
+        "email": "jamesa@company.com",
+        "teams": ["AWS", "Azure", "Infrastructure", "+2"]
+      },
+      {
+        "name": {
+          "username": "Charlotte Nelson",
+          "image": "https://randomuser.me/api/portraits/women/25.jpg",
+          "handle": "@charlotten"
+        },
+        "status": "On Leave",
+        "role": "HR Specialist",
+        "email": "charlotten@company.com",
+        "teams": ["HR", "Recruitment", "Payroll", "+1"]
+      },
+      {
+        "name": {
+          "username": "Benjamin Walker",
+          "image": "https://randomuser.me/api/portraits/men/26.jpg",
+          "handle": "@benjaminw"
+        },
+        "status": "Working",
+        "role": "Machine Learning Engineer",
+        "email": "benjaminw@company.com",
+        "teams": ["AI", "Deep Learning", "NLP", "+3"]
+      },
+      {
+        "name": {
+          "username": "Ella Green",
+          "image": "https://randomuser.me/api/portraits/women/27.jpg",
+          "handle": "@ellag"
+        },
+        "status": "Remote",
+        "role": "Marketing Specialist",
+        "email": "ellag@company.com",
+        "teams": ["Marketing", "Growth", "SEO", "+2"]
+      },
+      {
+        "name": {
+          "username": "Logan Hall",
+          "image": "https://randomuser.me/api/portraits/men/28.jpg",
+          "handle": "@loganh"
+        },
+        "status": "On Leave",
+        "role": "Cybersecurity Analyst",
+        "email": "loganh@company.com",
+        "teams": ["Security", "Risk", "Compliance", "+1"]
+      },
+      {
+        "name": {
+          "username": "Grace Adams",
+          "image": "https://randomuser.me/api/portraits/women/29.jpg",
+          "handle": "@gracea"
+        },
+        "status": "Working",
+        "role": "Finance Analyst",
+        "email": "gracea@company.com",
+        "teams": ["Finance", "Budgeting", "Strategy", "+2"]
+      },
+      {
+        "name": {
+          "username": "Lucas White",
+          "image": "https://randomuser.me/api/portraits/men/30.jpg",
+          "handle": "@lucasw"
+        },
+        "status": "Remote",
+        "role": "Database Administrator",
+        "email": "lucasw@company.com",
+        "teams": ["Database", "SQL", "Performance", "+3"]
+      },
+      {
+        "name": {
+          "username": "Zoe Cooper",
+          "image": "https://randomuser.me/api/portraits/women/31.jpg",
+          "handle": "@zoec"
+        },
+        "status": "On Leave",
+        "role": "Social Media Manager",
+        "email": "zoec@company.com",
+        "teams": ["Marketing", "Content", "Influencers", "+1"]
+      },
+      {
+        "name": {
+          "username": "Ethan King",
+          "image": "https://randomuser.me/api/portraits/men/32.jpg",
+          "handle": "@ethank"
+        },
+        "status": "Working",
+        "role": "Mobile App Developer",
+        "email": "ethank@company.com",
+        "teams": ["Development", "iOS", "Android", "+2"]
+      },
+      {
+        "name": {
+          "username": "Scarlett Lewis",
+          "image": "https://randomuser.me/api/portraits/women/33.jpg",
+          "handle": "@scarlettl"
+        },
+        "status": "Remote",
+        "role": "Technical Writer",
+        "email": "scarlettl@company.com",
+        "teams": ["Content", "Docs", "Tutorials", "+3"]
+      },
+      {
+        "name": {
+          "username": "Owen Scott",
+          "image": "https://randomuser.me/api/portraits/men/34.jpg",
+          "handle": "@owens"
+        },
+        "status": "On Leave",
+        "role": "Network Engineer",
+        "email": "owens@company.com",
+        "teams": ["IT", "Networking", "Infrastructure", "+1"]
+      },
+      {
+        "name": {
+          "username": "Victoria Reed",
+          "image": "https://randomuser.me/api/portraits/women/35.jpg",
+          "handle": "@victoriar"
+        },
+        "status": "Working",
+        "role": "Legal Consultant",
+        "email": "victoriar@company.com",
+        "teams": ["Legal", "Compliance", "Advisory", "+2"]
+      },
+      {
+        "name": {
+          "username": "Jack Hughes",
+          "image": "https://randomuser.me/api/portraits/men/36.jpg",
+          "handle": "@jackh"
+        },
+        "status": "Remote",
+        "role": "Frontend Engineer",
+        "email": "jackh@company.com",
+        "teams": ["Development", "React", "UI", "+3"]
+      },
+      {
+        "name": {
+          "username": "Lillian Ross",
+          "image": "https://randomuser.me/api/portraits/women/37.jpg",
+          "handle": "@lillianr"
+        },
+        "status": "Working",
+        "role": "Operations Manager",
+        "email": "lillianr@company.com",
+        "teams": ["Operations", "Strategy", "Logistics", "+1"]
+      },
+      {
+        "name": {
+          "username": "Elijah Murphy",
+          "image": "https://randomuser.me/api/portraits/men/38.jpg",
+          "handle": "@elijahm"
+        },
+        "status": "On Leave",
+        "role": "Systems Analyst",
+        "email": "elijahm@company.com",
+        "teams": ["IT", "Analysis", "Support", "+2"]
+      } 
+  ]
+  
